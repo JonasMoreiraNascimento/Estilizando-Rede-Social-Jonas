@@ -1,0 +1,32 @@
+/* Aplicando a fonte 'Inter' para todo o corpo do documento */
+body {
+    @import url();
+  }
+  
+  /* Estilos para os títulos */
+  .title1 {
+    font-size: 36px;
+    color: var(--primary-color); /* Utilizando a variável de cor primária */
+  }
+  
+  .title2 {
+    font-size: 28px;
+    color: var(--secondary-color); /* Utilizando a variável de cor secundária */
+  }
+  
+  /* Estilos para os textos */
+  .text1 {
+    font-size: 18px;
+    color: var(--text-color); /* Utilizando a variável de cor do texto */
+  }
+  
+  .text2 {
+    font-size: 16px;
+    color: var(--text-color); /* Utilizando a variável de cor do texto */
+  }
+  
+  .text3 {
+    font-size: 14px;
+    color: var(--text-color); /* Utilizando a variável de cor do texto */
+  }
+  

@@ -1,0 +1,47 @@
+:root {
+  --brand-1: #4263EB;
+  --brand-2: #364fc7;
+
+  --grey0: #0A0C0D;
+  --grey1: #212529;
+  --grey2: #495057;
+  --grey3: #868E96;
+  --grey4: #DEE2E6;
+  --grey5: #F8F9FA;
+  --grey-opacity-1: rgba(33, 37, 41, 0.5);
+  --whiteFixed: #FFFFFF;
+
+  --like-color: #D7443E;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.title1 {
+  font-size: 2rem;
+  color: var(--brand-1);
+  font-weight: bold;
+}
+
+.title2 {
+  font-size: 1.5rem;
+  color: var(--brand-2);
+  font-weight: bold;
+}
+
+.text1 {
+  font-size: 1rem;
+  color: var(--grey3);
+}
+
+.text2 {
+  font-size: 0.9rem;
+  color: var(--grey2);
+}
+
+.text3 {
+  font-size: 0.8rem;
+  color: var(--grey1);
+}
+
